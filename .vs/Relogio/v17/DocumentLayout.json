@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asimu\\OneDrive\\Documentos\\Github Project\\Projeto Relogio Analogique\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA553E06-7DBE-4AA3-A2D8-6C088AD2EC92}|Relogio\\Relogio.csproj|c:\\users\\asimu\\onedrive\\documentos\\github project\\projeto relogio analogique\\relogio\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{EA553E06-7DBE-4AA3-A2D8-6C088AD2EC92}|Relogio\\Relogio.csproj|solutionrelative:relogio\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA553E06-7DBE-4AA3-A2D8-6C088AD2EC92}|Relogio\\Relogio.csproj|c:\\users\\asimu\\onedrive\\documentos\\github project\\projeto relogio analogique\\relogio\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA553E06-7DBE-4AA3-A2D8-6C088AD2EC92}|Relogio\\Relogio.csproj|solutionrelative:relogio\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asimu\\OneDrive\\Documentos\\Github Project\\Projeto Relogio Analogique\\Relogio\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Relogio\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\asimu\\OneDrive\\Documentos\\Github Project\\Projeto Relogio Analogique\\Relogio\\Form1.Designer.cs",
+              "RelativeToolTip": "Relogio\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T20:43:44.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\asimu\\OneDrive\\Documentos\\Github Project\\Projeto Relogio Analogique\\Relogio\\Form1.resx",
+              "RelativeDocumentMoniker": "Relogio\\Form1.resx",
+              "ToolTip": "C:\\Users\\asimu\\OneDrive\\Documentos\\Github Project\\Projeto Relogio Analogique\\Relogio\\Form1.resx",
+              "RelativeToolTip": "Relogio\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-09T20:43:42.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

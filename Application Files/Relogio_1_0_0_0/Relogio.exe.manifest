@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Relogio.exe" version="1.0.0.0" publicKeyToken="3878a8eff6c14daa" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Relogio" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Relogio.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opções de Manifesto do UAC
+          Para alterar o nível de Controle de Conta de Usuário do Windows, substitua o nó
+          requestedExecutionLevel por um dos seguintes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Para utilizar a Virtualização de Arquivos e Registro para manter a compatibilidade com versões anteriores,
+         exclua o nó requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Relogio.exe" size="77216">
+      <assemblyIdentity name="Relogio" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>5XYFtRKYyYaswI78/JqKGUxtQqr/fPMA0UZja6gZ1yI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Relogio.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=SIME\asimu" issuerKeyHash="cd97c2c8f03757e3a26b647a6681a66dc363a33c" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>R+k/P9hDk5QEg+qR2CDA1V9gzIv/tryvLcwNbEADBWk=</DigestValue></Reference></SignedInfo><SignatureValue>CWS9MzCDMkb5P8f21vKrxMbYCVosWjBGtE4hrzdHPVbebVlLGSnE15aBOarsMXQLZgv5wilECIhNiD8lOxLIkKStBg5vcTEXH8Rlra3vIS8NabAY0b4ZNUk7fZ2yWT1aAmVWYR+iIdfvaBk2qGRqlhx9SK4TmJRduI7oML29k/Q=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>xDfYqMNdpHEYmQbdkuaR5KNWf+YhXYBVbR6mPRbxHPCjTsYrQlhe8Y3Qk7t+cRsGZKAe7B+qrVW2cn6hWXeNbMLGMaadw4rt3fvnYdHmdkH4KarAheW91RPmAjoplcvhjBskwM/yN+NAe9jxS78CkrjMPez9Fr7cs4lE0hqRGVk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="690503406c0dcc2dafbcb6ff8bcc605fd5c020d891ea8304949343d83f3fe947" Description="" Url=""><as:assemblyIdentity name="Relogio.exe" version="1.0.0.0" publicKeyToken="3878a8eff6c14daa" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=SIME\asimu</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>5yySSNxVWEhcqJo0VjrSQhvl203BZJ7tZm7r855o+Wo=</DigestValue></Reference></SignedInfo><SignatureValue>wDJ9sSVZNsmnvHTvxX7qB2e0RmgH0Vwvfr2hxDj9nx2iTsbNY7iees87X95q+MnPpZHC1ej0e3d/g5sbVf65rNGFza8PN06TXhF7ay0HLPjIqTvy2eyzkAZ1roU8AVIRz68seGkSYxzhFBl36ptNwugscH5LZYnvLnnzpSr+EVI=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>xDfYqMNdpHEYmQbdkuaR5KNWf+YhXYBVbR6mPRbxHPCjTsYrQlhe8Y3Qk7t+cRsGZKAe7B+qrVW2cn6hWXeNbMLGMaadw4rt3fvnYdHmdkH4KarAheW91RPmAjoplcvhjBskwM/yN+NAe9jxS78CkrjMPez9Fr7cs4lE0hqRGVk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBwTCCASqgAwIBAgIQEbn9T83324xDVJI3t0CAVDANBgkqhkiG9w0BAQsFADAfMR0wGwYDVQQDHhQAUwBJAE0ARQBcAGEAcwBpAG0AdTAeFw0yNDAzMDkyMTA3MDNaFw0yNTAzMTAwMzA3MDNaMB8xHTAbBgNVBAMeFABTAEkATQBFAFwAYQBzAGkAbQB1MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDEN9iow12kcRiZBt2S5pHko1Z/5iFdgFVtHqY9FvEc8KNOxitCWF7xjdCTu35xGwZkoB7sH6qtVbZyfqFZd41swsYxpp3Diu3d++dh0eZ2QfgpqsCF5b3VE+YCOimVy+GMGyTAz/I340B72PFLvwKSuMw97P0WvtyziUTSGpEZWQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBACqHgJXKWm1GpguNLHD3VosYbXzDiHsbalESB8XT/Zz2bJffYoXGhFM5jeHpTfvfsTAJHPV80HtOTfRU65BsAQFMoPL1xxKwmV4NGEKY22ndkNgf+zVzxhPtMo5NnIz+6uvO5sYxFlakWodrs1jEIDal8++k276MDlj1PyIrO5U3</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
