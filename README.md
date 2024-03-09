@@ -5,7 +5,6 @@
 
 Este é um projeto de relógio simples desenvolvido em C# usando Windows Forms no .NET Framework.
 
-![Relógio Simples](clock_screenshot.png)
 
 ## Funcionalidades
 
