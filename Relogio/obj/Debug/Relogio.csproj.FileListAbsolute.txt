@@ -1,0 +1,10 @@
+C:\Users\asimu\OneDrive\Documentos\Github Project\Relogio\Relogio\Relogio\Relogio\obj\Debug\Relogio.csproj.AssemblyReference.cache
+C:\Users\asimu\OneDrive\Documentos\Github Project\Relogio\Relogio\Relogio\Relogio\obj\Debug\Relogio.Form1.resources
+C:\Users\asimu\OneDrive\Documentos\Github Project\Relogio\Relogio\Relogio\Relogio\obj\Debug\Relogio.Properties.Resources.resources
+C:\Users\asimu\OneDrive\Documentos\Github Project\Relogio\Relogio\Relogio\Relogio\obj\Debug\Relogio.csproj.GenerateResource.cache
+C:\Users\asimu\OneDrive\Documentos\Github Project\Relogio\Relogio\Relogio\Relogio\obj\Debug\Relogio.csproj.CoreCompileInputs.cache
+C:\Users\asimu\OneDrive\Documentos\Github Project\Relogio\Relogio\Relogio\Relogio\bin\Debug\Relogio.exe.config
+C:\Users\asimu\OneDrive\Documentos\Github Project\Relogio\Relogio\Relogio\Relogio\bin\Debug\Relogio.exe
+C:\Users\asimu\OneDrive\Documentos\Github Project\Relogio\Relogio\Relogio\Relogio\bin\Debug\Relogio.pdb
+C:\Users\asimu\OneDrive\Documentos\Github Project\Relogio\Relogio\Relogio\Relogio\obj\Debug\Relogio.exe
+C:\Users\asimu\OneDrive\Documentos\Github Project\Relogio\Relogio\Relogio\Relogio\obj\Debug\Relogio.pdb
